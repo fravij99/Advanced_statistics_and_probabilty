@@ -4,3 +4,5 @@ This is a computational project I made in collaboration with Maria Pasinetti, fo
 The dataset I used deals with ${CO_{2}}$ emissions cumulative and pro capite for every comune of every state joining to European Union. 
 
 We did a qualitative and quantitative analysis about the problematics every state has to face in sight of climate change.
+
+I also uploaded the exercises of the course related to intresting physical or economical analysis.
